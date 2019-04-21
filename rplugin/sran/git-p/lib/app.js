@@ -151,7 +151,7 @@ var App = /** @class */ (function () {
                             ];
                         case 2:
                             // upate diff sign
-                            _a.sent();
+                            // _a.sent();
                             // update b:gitp_blame
                             return [4 /*yield*/, bufInfo.buffer.setVar('gitp_blame', blame)
                                 // update b:gitp_diff_state
